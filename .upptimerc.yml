@@ -12,8 +12,6 @@ sites:
     url: https://decode.pandaily.com
   - name: Pandaread
     url: https://pandaread.com
-  - name: NotificationTestSite
-    url: http://h.liyaodong.com:8088
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
