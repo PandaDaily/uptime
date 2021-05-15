@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/pandaily.com",
     "slug": "pandaily",
     "status": "up",
-    "uptime": "98.41%",
+    "uptime": "98.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.41%",
+    "uptimeYear": "98.42%",
     "time": 793,
     "timeDay": 212,
     "timeWeek": 270,
@@ -32,11 +32,11 @@
     "icon": "https://favicons.githubusercontent.com/pandata.pandaily.com",
     "slug": "pandata",
     "status": "up",
-    "uptime": "98.49%",
+    "uptime": "98.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.49%",
+    "uptimeYear": "98.50%",
     "time": 1529,
     "timeDay": 2565,
     "timeWeek": 1677,
@@ -82,9 +82,9 @@
     "url": "https://pandaread.com",
     "icon": "https://favicons.githubusercontent.com/pandaread.com",
     "slug": "pandaread",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,6 +93,8 @@
     "timeWeek": 185,
     "timeMonth": 205,
     "timeYear": 253,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-15": 0
+    }
   }
 ]
