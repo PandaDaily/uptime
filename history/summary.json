@@ -58,11 +58,11 @@
     "icon": "https://favicons.githubusercontent.com/decode.pandaily.com",
     "slug": "decode-china",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.74%",
+    "uptimeYear": "98.75%",
     "time": 1240,
     "timeDay": 1156,
     "timeWeek": 1191,
@@ -82,19 +82,19 @@
     "url": "https://pandaread.com",
     "icon": "https://favicons.githubusercontent.com/pandaread.com",
     "slug": "pandaread",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 253,
-    "timeDay": 164,
+    "timeDay": 173,
     "timeWeek": 185,
-    "timeMonth": 205,
+    "timeMonth": 204,
     "timeYear": 253,
     "dailyMinutesDown": {
-      "2021-05-15": 0
+      "2021-05-15": 18
     }
   }
 ]
