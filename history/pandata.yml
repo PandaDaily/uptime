@@ -1,7 +1,7 @@
 url: https://pandata.pandaily.com
-status: down
-code: 503
-responseTime: 82
-lastUpdated: 2021-10-20T12:01:26.203Z
+status: up
+code: 200
+responseTime: 1433
+lastUpdated: 2021-10-20T14:28:08.836Z
 startTime: Mon Jan 11 2021 03:52:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
