@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
-    "time": 1342,
-    "timeDay": 218,
-    "timeWeek": 150,
-    "timeMonth": 259,
-    "timeYear": 1344,
+    "time": 1340,
+    "timeDay": 151,
+    "timeWeek": 155,
+    "timeMonth": 260,
+    "timeYear": 1342,
     "dailyMinutesDown": {
       "2021-12-03": 37,
       "2021-11-13": 115,
@@ -35,8 +35,7 @@
       "2021-02-20": 381,
       "2021-02-19": 645,
       "2021-02-18": 92,
-      "2021-02-14": 186,
-      "2021-02-13": 1048
+      "2021-02-14": 186
     }
   },
   {
@@ -45,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/pandata.pandaily.com",
     "slug": "pandata",
     "status": "down",
-    "uptime": "82.25%",
+    "uptime": "82.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.72%",
+    "uptimeYear": "80.44%",
     "time": 1550,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1554,
     "dailyMinutesDown": {
-      "2022-02-12": 42,
+      "2022-02-13": 43,
+      "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
@@ -147,8 +147,7 @@
       "2021-02-20": 381,
       "2021-02-19": 577,
       "2021-02-18": 76,
-      "2021-02-14": 342,
-      "2021-02-13": 1004
+      "2021-02-14": 342
     }
   },
   {
@@ -162,19 +161,18 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 1229,
-    "timeDay": 1537,
-    "timeWeek": 1203,
-    "timeMonth": 1196,
-    "timeYear": 1223,
+    "time": 1230,
+    "timeDay": 1513,
+    "timeWeek": 1280,
+    "timeMonth": 1210,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2021-10-20": 147,
       "2021-08-19": 8,
       "2021-02-20": 381,
       "2021-02-19": 577,
       "2021-02-18": 76,
-      "2021-02-14": 186,
-      "2021-02-13": 1004
+      "2021-02-14": 186
     }
   },
   {
@@ -183,15 +181,15 @@
     "icon": "https://favicons.githubusercontent.com/pandaread.com",
     "slug": "pandaread",
     "status": "up",
-    "uptime": "91.47%",
+    "uptime": "91.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.82%",
+    "uptimeMonth": "48.11%",
     "uptimeYear": "90.72%",
-    "time": 202,
-    "timeDay": 222,
-    "timeWeek": 116,
-    "timeMonth": 138,
+    "time": 201,
+    "timeDay": 60,
+    "timeWeek": 112,
+    "timeMonth": 135,
     "timeYear": 196,
     "dailyMinutesDown": {
       "2022-01-28": 1174,
